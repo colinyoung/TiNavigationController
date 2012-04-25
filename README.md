@@ -35,5 +35,5 @@ You should probably keep track of the `navController` object so you can continue
 Methods
 -------
 
-- `.back(transition=null)`: returns you one view controller/screen/window, with an optional [Ti View animation object](http://developer.appcelerator.com/apidoc/mobile/1.0/Titanium.UI.Animation)]
-- `.home(transition=null)`: returns you to the root view controller, with an optional [Ti View animation object](http://developer.appcelerator.com/apidoc/mobile/1.0/Titanium.UI.Animation)]
+- `.back(transition=null)`: returns you one view controller/screen/window, with an optional [Ti View animation object](http://developer.appcelerator.com/apidoc/mobile/1.0/Titanium.UI.Animation)
+- `.home(transition=null)`: returns you to the root view controller, with an optional [Ti View animation object](http://developer.appcelerator.com/apidoc/mobile/1.0/Titanium.UI.Animation)
